@@ -1,13 +1,16 @@
-👋 Hi, I’m @uza2
+# 👋 Hi, I’m @uza2  
 
-👀 I’m interested in programming, web development, and content creation
+👀 **Interests:**  
+I'm passionate about **programming, web development, and content creation**.  
 
-🌱 I’m currently learning about networking and studying for my CCNA certification
+🌱 **Currently Learning:**  
+I'm diving deep into **networking** and preparing for my **CCNA certification**.  
 
-💞️ I’m looking to collaborate on tech projects and content creation
+💡 **Looking to Collaborate On:**  
+I'm eager to collaborate on **tech projects** and **content creation**.  
 
-📫 How to reach me: ameerdsalmannewstart@gmail.com
+📫 **How to Reach Me:**  
+Feel free to reach out via email: [ameerdsalmannewstart@gmail.com](mailto:ameerdsalmannewstart@gmail.com)  
 
-⚡ Fun fact: I'm a Computer Science student at the University of Baghdad and always top of my class!
-
-
+⚡ **Fun Fact:**  
+I'm a **Computer Science student at the University of Baghdad** and always at the **top of my class!**  
